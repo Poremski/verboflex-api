@@ -1,0 +1,8 @@
+# If you would like to report a security issue, you may report it to us
+# according to this security.txt file. This file is created according to
+# security.txt standard 04.
+# https://tools.ietf.org/html/draft-foudil-securitytxt-04
+
+Contact: mailto:javier@poremski.se
+Encryption: https://www.poremski.se/pgp_key.asc
+Signature: https://api.verboflex.com/.well-known/security.txt.sig

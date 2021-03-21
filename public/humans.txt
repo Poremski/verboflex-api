@@ -1,0 +1,25 @@
+    __     __        _            __ _
+    \ \   / /__ _ __| |__   ___  / _| | _____  __
+     \ \ / / _ \ '__| '_ \ / _ \| |_| |/ _ \ \/ /  ╔═╗╔═╗╦
+      \ V /  __/ |  | |_) | (_) |  _| |  __/>  <   ╠═╣╠═╝║
+       \_/ \___|_|  |_.__/ \___/|_| |_|\___/_/\_\  ╩ ╩╩  ╩
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+      The humans.txt file explains the team, technology,
+            and creative assetsbehind this site.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+/* TEAM */
+  Title:...................Javier Poremski
+  Site:....................https://www.poremski.se
+  Location:................Gothenburg, Sweden
+  Email:...................javier@poremski.se
+    -- PGP Key:............https://www.poremski.se/gpg_key.asc
+    -- Key-ID:.............0x0DDB55BE2C661452
+
+/* SITE */
+  Last Update:.............2021/03/21 (Y/M/D)
+  Standards:...............JSON, PHP
+  Software:................Visual Studio Code
